@@ -13,3 +13,7 @@ public class Var02 {  //scope : 인지되는 범위나 시기
 		System.out.println("a+b="+(f+g));
 	}
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
