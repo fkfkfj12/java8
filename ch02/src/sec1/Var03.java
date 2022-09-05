@@ -16,5 +16,13 @@ public class Var03 {
 		char i='k';		//2byte(16bit) 
 		
 		String j="kim"; 
+	
+		byte byteValue = 10;
+		float floatValue = 2.5F;
+		double doubleValue = 2.5;
+	//	byte result = byteValue + byteValue;
+		//int result = 5 + byteValue;
+		//float result = 5+ floatValue;
+		double result = 5+ doubleValue;
 	}
 }
