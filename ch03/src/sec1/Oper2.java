@@ -13,6 +13,10 @@ public class Oper2 {
 		//부호연산자
 		System.out.println(-a);
 		System.out.println(-(a-b));
+	
+	
+		
+		
 	}
 
 }
