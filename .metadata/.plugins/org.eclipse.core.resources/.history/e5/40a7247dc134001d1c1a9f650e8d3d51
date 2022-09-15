@@ -1,0 +1,15 @@
+package sec4;
+
+public class ex3 {
+
+	public static void main(String[] args) {
+		int a = 0 ;
+		for(int n=0;n<100;n+=3){
+			a=a+n;
+			
+			
+		}
+		System.out.println(a);
+	}
+
+}

@@ -1,0 +1,16 @@
+package sec3;
+
+public class aaaa {
+
+	public static void main(String[] args) {
+		int n = 0 ;
+		int a = 0 ;
+		for(n<100){
+			a=a+n;
+			n=n+3;
+			
+		}
+		System.out.println("a");
+	}
+
+}
