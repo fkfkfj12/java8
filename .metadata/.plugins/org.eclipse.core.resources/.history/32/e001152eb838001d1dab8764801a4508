@@ -1,0 +1,28 @@
+package sec2;
+
+public class Car {
+
+	public static void main(String[] args) {
+		String name;
+		String fuel;
+		int cc;
+		int speed;
+		
+		public Car() { }
+		public Car(String name) {this.name=name;}
+		public Car(String name, String fuel) {
+			this.name = name; this.fuel=fuel;
+			}
+	
+		public Car(String name, String fuel, int cc) {
+			this(name,fuel, cc, 0);
+		}
+		public Car(String name, String fuel, int cc, int speed) {
+			this.name = name; this.fuel=fuel;
+			this.cc =cc; this.speed = speed;
+		}
+		
+		}
+	}
+
+
